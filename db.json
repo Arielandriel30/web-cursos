@@ -5,76 +5,76 @@
         "name": "HTML para principiantes",
         "price": "13 USD",
         "type": "html",
-        "image": "html.svg",
+        "image": "html.svg"
         
     },
     {
         "name": "JavaScript para principiantes",
         "price": "10 USD",
         "type": "js",
-        "image": "javascript.svg",
+        "image": "javascript.svg"
 
     },
     {
        "name": "Java desde cero a avanzado",
         "price": "15 USD",
         "type": "java",
-        "image": "java.svg",
+        "image": "java.svg"
     },
     {
         "name": "CSS avanzado",
         "price": "9 USD",
         "type": "css",
-        "image": "css.svg",
+        "image": "css.svg"
     },
     {
         "name": "HTML avanzado",
         "price": "8 USD",
         "type": "html",
-        "image": "html.svg",
+        "image": "html.svg"
     },
     {
         "name": "JavaScript avanzado",
         "price": "6 USD",
         "type": "js",
-        "image": "javascript.svg",
+        "image": "javascript.svg"
     },
     {
         "name": "Aprende Java desde cero",
         "price": "13 USD",
         "type": "java",
-        "image": "java.svg",
+        "image": "java.svg"
 
     },
     {
         "name": "JavaScript nivel intermedio",
         "price": "10 USD",
         "type": "js",
-        "image": "javascript.svg",
+        "image": "javascript.svg"
     },
     {
        "name": "CSS dale estilo a tu Web",
         "price": "13 USD",
         "type": "css",
-        "image": "css.svg",
+        "image": "css.svg"
     },
     {
        "name": "Comienza hacer tu Web",
         "price": "6 USD",
         "type": "html",
-        "image": "html.svg",
+        "image": "html.svg"
     },
     {
        "name": "Aprende todo sobre CSS",
         "price": "9 USD",
         "type": "css",
-        "image": "css.svg",
+        "image": "css.svg"
     },
     {
        "name": "Java todos los niveles",
         "price": "15 USD",
         "type": "java",
-        "image": "java.svg",
+        "image": "java.svg"
     }
 ]
 }
