@@ -423,5 +423,9 @@ footer{
 	.subtitulo{
 		font-size: 30px;
 	}
+	.copy{
+	font-weight: 400;
+	font-size: 35px;
+}
 	
 }
