@@ -120,7 +120,6 @@ width: 40%;
 	margin-right: 5px;
 }
 
-/*galeeria de imagenes productos*/
 
 
 
@@ -423,9 +422,8 @@ footer{
 	.subtitulo{
 		font-size: 40px;
 	}
-	.copy{
-	font-weight: 400;
-	font-size: 35px;
-}
+	.menu-navegacion{
+	   font-size: 35px;
+	}
 	
 }
